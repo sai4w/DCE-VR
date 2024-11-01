@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "module": "NodeNext",
+        "moduleResolution": "NodeNext",
+        "baseUrl": "src",
+        "outDir": "public",
+        "sourceMap": true,
+        "noImplicitAny": true
+    },
+    "include": [
+        "src/**/*",
+        "index.ts"
+    ],
+}
