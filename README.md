@@ -16,7 +16,7 @@ Welcome to our collaborative platform dedicated to sustainability! This website,
 
 - **Frontend**: React, TailwindCss, Shadcn-ui, Typescript and Prisma for a dynamic, responsive interface.
 - **Backend**: Express for efficient, scalable server-side functions.
-- **Database**: Neao Tech a postgresql database and Cloudinary a cloud storage for managing user profiles, item exchanges, and event details.
+- **Database**: Neon Tech (a PostgreSQL database) and Cloudinary (cloud storage for managing user profiles, item exchanges, and event details).
 - **Deployment**: Hosted on Vercel.
 
 ## 🧑‍💻 Skills Demonstrated
