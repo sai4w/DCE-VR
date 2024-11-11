@@ -1,6 +1,6 @@
 # 🌍 Association Platform - Collaborative Environmental Hub
 
-Welcome to our collaborative platform dedicated to sustainability! This website, built for [Association Name], enables users to exchange items, reduce their carbon footprint, play educational VR games, and much more. Together, let's create a greener, more sustainable future! 🌱
+Welcome to our collaborative platform dedicated to sustainability! This website, built for DCEVR, enables users to exchange items, reduce their carbon footprint, play educational VR games, and much more. Together, let's create a greener, more sustainable future! 🌱
 
 ## 🌟 Platform Highlights
 
@@ -14,10 +14,10 @@ Welcome to our collaborative platform dedicated to sustainability! This website,
 
 ## 🛠️ Technologies Used
 
-- **Frontend**: HTML, CSS, JavaScript, and [Frameworks like React or Vue if applicable] for a dynamic, responsive interface.
-- **Backend**: [Specify backend framework such as Node.js or Django] for efficient, scalable server-side functions.
-- **Database**: [Database type, e.g., PostgreSQL, MongoDB] for managing user profiles, item exchanges, and event details.
-- **Deployment**: Hosted on [Platform Name, e.g., Vercel, Railway, AWS].
+- **Frontend**: React, TailwindCss, Shadcn-ui, Typescript and Prisma for a dynamic, responsive interface.
+- **Backend**: Express for efficient, scalable server-side functions.
+- **Database**: Neao Tech a postgresql database and Cloudinary a cloud storage for managing user profiles, item exchanges, and event details.
+- **Deployment**: Hosted on Vercel.
 
 ## 🧑‍💻 Skills Demonstrated
 
